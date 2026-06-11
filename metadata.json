@@ -1,0 +1,6 @@
+{
+  "name": "ITC FABLAB Booking",
+  "description": "Booking management system for ITC FABLAB's 3D Printer, Laser Cut, and CNC machines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
